@@ -1,0 +1,8 @@
+Year,Sentiment Analysis
+2009,{}
+2010,"{'Positive': 15, 'Negative': 5, 'Neutral': 1}"
+2011,"{'Positive': 164, 'Negative': 50, 'Neutral': 35}"
+2012,"{'Positive': 423, 'Negative': 119, 'Neutral': 80}"
+2013,"{'Positive': 3198, 'Neutral': 1149, 'Negative': 1016}"
+2014,"{'Positive': 12493, 'Neutral': 4701, 'Negative': 4392}"
+2015,"{'Positive': 10757, 'Negative': 4426, 'Neutral': 4408}"
