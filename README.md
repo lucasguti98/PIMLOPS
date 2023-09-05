@@ -1,5 +1,5 @@
 # PIMLOPS
-* *Los últimos commits son eliminados librerias de el requirmentes.txt para que funcione render!
+* *Los últimos commits son eliminando librerias de el requirmentes.txt para que funcione render!
 
   
 Video presentación: https://drive.google.com/file/d/13hHdRQPWDSmyCxiatygMYudHbEU7ZFdm/view
