@@ -26,7 +26,6 @@ et-xmlfile==1.1.0
 executing==1.2.0
 fastapi==0.103.0
 fastjsonschema==2.16.3
-fonttools==4.39.3
 fqdn==1.5.1
 h11==0.14.0
 idna==3.4
